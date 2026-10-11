@@ -1,6 +1,6 @@
 # Hi, I'm Sri Sathwick Kesagani
 
-M.S. Electrical & Computer Engineering student at the **University of Hartford** (expected May 2027), based in New York.
+M.S. Electrical & Computer Engineering student at the **University of Hartford** (expected December 2026), based in New York.
 I work on **embedded systems, hardware test & validation, and test automation**.
 
 ### Projects
